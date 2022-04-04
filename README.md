@@ -1,6 +1,6 @@
 # MachineX
 
-## Visit [MachineX]()
+## Visit [MachineX](https://heartfelt-clafoutis-1a9a1c.netlify.app/)
 
 ## MachineX's functionalities:
 
