@@ -1,10 +1,10 @@
-.homeContainer {
+.homeSec1Container {
   display: grid;
   grid-template-columns: 4fr 3fr;
   margin: 50px 100px;
 }
 
-.homeContainer img {
+.homeSec1Container img {
   width: 420px;
   margin: auto;
   border-radius: 20px;
