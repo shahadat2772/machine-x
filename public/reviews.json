@@ -1,42 +1,49 @@
 [
   {
     "id": "624ab6ec1b9a5a7546688087",
+    "img": "https://randomuser.me/api/portraits/men/12.jpg",
     "name": "Hahn Hardin",
     "review": "No complaints other than the price. Apple always gouges.",
     "ratings": 3
   },
   {
     "id": "624ab6ecdb615a8da6a4bdc2",
+    "img": "https://randomuser.me/api/portraits/men/11.jpg",
     "name": "Wilson Ayala",
     "review": "There’s nothing to dislike about this laptop. It’s fast, the graphics are INSANE, it runs so many applications at once flawlessly. It’s better than I had hoped for. Price was a bit scary at first but we use it for my wife’s photography business and Photoshop/Lightroom work perfectly without issue and the quality of the machine is well worth the price. Honestly considering a second one to replace my HP.",
     "ratings": 4
   },
   {
     "id": "624ab6ec5b5b0b9bf35ad3fa",
+    "img": "https://randomuser.me/api/portraits/men/85.jpg",
     "name": "Fisher Knapp",
     "review": "This laptop is unbelievably fast. Between the screen, battery life, and performance, this laptop is head and shoulders better than any competition.",
     "ratings": 4
   },
   {
     "id": "624ab6ec1670cce94a92169f",
+    "img": "https://randomuser.me/api/portraits/women/8.jpg",
     "name": "Yang Salas",
     "review": "My first ever MacBook. Switched over from PC and I can't believe I didn't switch sooner! On the pricer side but I'm super happy with my purchase!",
     "ratings": 3
   },
   {
     "id": "624ab6ec022ac9a085fde31d",
+    "img": "https://randomuser.me/api/portraits/men/42.jpg",
     "name": "Aida Perez",
     "review": "I've been a Mac user for many decades and have had many Apple laptops over the years and this is definitely the best to date. Battery life is increadible, display is bright and high res, it's fast, and the keyboard is excellent. Great design..",
     "ratings": 3
   },
   {
     "id": "624ab6ec9dbf85ae07b1e344",
+    "img": "https://randomuser.me/api/portraits/women/62.jpg",
     "name": "Donovan Lopez",
     "review": "I was hoping to purchase Apple Care from the Apple website within the 60 days of buying (I just got my MacBook delivered today), but it turns out that when I tried purchasing Apple Care from the Apple website it just says that the device is ineligible. Really disappointed. Going to return it so I can purchase it from the Apple Website.",
     "ratings": 2
   },
   {
     "id": "624ab6ec3ac4fbb77a70cd62",
+    "img": "https://randomuser.me/api/portraits/men/75.jpg",
     "name": "Willie Villarreal",
     "review": "Finally, this 2021 MacBook Pro cured my depression!",
     "ratings": 4

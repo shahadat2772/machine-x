@@ -1,0 +1,20 @@
+.reviewHeader img {
+  width: 40px;
+  border-radius: 50%;
+}
+
+.reviewHeader p {
+  margin: 0px 0px 0px 8px;
+}
+
+.reviewHeader {
+  display: flex;
+  align-items: center;
+}
+
+.reviewContainer {
+  border: 1px solid gray;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  padding: 20px;
+}
