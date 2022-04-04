@@ -12,8 +12,10 @@ const Home = () => {
   const threeReview = reviews.slice(0, 3);
 
   return (
+    // Main Home Container
     <div className="homeContainer">
       <div className="homeSec1Container">
+        {/* Section-1 feature side */}
         <div className="homeSec1Text">
           <p>M1 Max MacBook Pro</p>
           <ul>
@@ -52,11 +54,12 @@ const Home = () => {
             </li>
           </ul>
         </div>
+        {/* Section-1 Img */}
         <div className="homeSec1Img">
           <img src={macbookpro} alt="" />
         </div>
       </div>
-
+      {/* Review section in HOME */}
       <div className="reviewsContainer">
         <p className="customerReviews">Customer Reviews</p>
         {threeReview.map((review) => (
