@@ -4,6 +4,7 @@ import macbookpro from "../images/macbookpro1.png";
 import "./Home.css";
 import useReviews from "../../hooks/useReviews/useReviews";
 import Review from "../Review/Review";
+import { Link } from "react-router-dom";
 
 const Home = () => {
   const [reviews, setReviews] = useReviews();
@@ -61,6 +62,9 @@ const Home = () => {
         {threeReview.map((review) => (
           <Review reviewJT={review}></Review>
         ))}
+        <div className="seeMoreBtn">
+          <Link to="/reviews">See More...</Link>
+        </div>
       </div>
     </div>
   );

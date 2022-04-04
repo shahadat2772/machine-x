@@ -19,3 +19,19 @@
   margin-left: 25px;
   margin-bottom: 10px;
 }
+
+.seeMoreBtn a {
+  text-decoration: none;
+  font-size: 18px;
+  padding: 2px 4px;
+  font-weight: 600;
+  color: gray;
+}
+
+.seeMoreBtn {
+  padding-top: 5px;
+}
+
+.seeMoreBtn a:hover {
+  color: rgb(75, 72, 72);
+}
