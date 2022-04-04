@@ -1,0 +1,20 @@
+.navContainer {
+  display: flex;
+  align-items: center;
+  padding: 5px 60px;
+  background-color: black;
+  color: lightgrey;
+}
+.linksContainer {
+  margin-left: auto;
+}
+.linksContainer a {
+  text-decoration: none;
+  color: lightgrey;
+  margin-left: 10px;
+}
+
+.headerText {
+  font-size: 40px;
+  margin: 0px;
+}

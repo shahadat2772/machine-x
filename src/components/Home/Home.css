@@ -1,0 +1,21 @@
+.homeContainer {
+  display: grid;
+  grid-template-columns: 4fr 3fr;
+  margin: 50px 100px;
+}
+
+.homeContainer img {
+  width: 420px;
+  margin: auto;
+  border-radius: 20px;
+}
+
+.homeSec1Img {
+  margin: auto;
+}
+
+.homeSec1Text p {
+  font-size: 35px;
+  margin-left: 25px;
+  margin-bottom: 10px;
+}
