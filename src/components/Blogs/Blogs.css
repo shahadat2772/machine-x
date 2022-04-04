@@ -1,0 +1,14 @@
+/* CSS FOR QNA */
+
+.question {
+  font-size: 25px;
+}
+
+.answer {
+  font-size: 18px;
+}
+
+.qnaContainer {
+  text-align: center;
+  margin: 50px 200px;
+}
