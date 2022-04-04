@@ -10,7 +10,7 @@ const Review = ({ reviewJT }) => {
         <p className="reviewerName">{name}</p>
       </div>
       <div className="ratings">
-        <small>Ratings: 5/{ratings}</small>
+        <small>Ratings: {ratings} of 5</small>
       </div>
       <div className="body">
         <p>{review}</p>

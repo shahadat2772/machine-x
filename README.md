@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# MachineX
+
+## Visit [MachineX]()
+
+## MachineX's functionalities:
+
+- This site uses react router to hover between four routes. (Home, Review, Dash-Board, Blogs).
+- Got a initial/Home page to over view the product with key features. And a three of the reviews. The see more button response to get all the reviews.
+- Got a dash-board which holds charts that was build by rechart.
+- Also has a QNA Rout Blogs by the name.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
