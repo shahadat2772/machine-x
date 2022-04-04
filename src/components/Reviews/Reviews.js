@@ -12,7 +12,7 @@ const Reviews = () => {
       <p className="customerReviews">Customer reviews</p>
       <div>
         {reviews.map((review) => (
-          <Review reviewJT={review}></Review>
+          <Review key={review.id} reviewJT={review}></Review>
         ))}
       </div>
     </div>

@@ -63,7 +63,7 @@ const Home = () => {
       <div className="reviewsContainer">
         <p className="customerReviews">Customer Reviews</p>
         {threeReview.map((review) => (
-          <Review reviewJT={review}></Review>
+          <Review key={review.id} reviewJT={review}></Review>
         ))}
         <div className="seeMoreBtn">
           <Link to="/reviews">See More...</Link>
